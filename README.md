@@ -6,6 +6,8 @@
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...Brrrrrrrrrrr
 
+---
+
 ### Connect with me:
 
 [<img align="left" alt="Pancham | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -46,12 +48,13 @@
 <img alt="macos" width="26px" src="https://img.icons8.com/officel/160/000000/mac-logo.png">
 </code>](https://developer.apple.com/macos/)
 
-### Dev Community
+
 
 <!-- DEVTO:START -->
 <!-- DEVTO:END -->
 
 ---
+### Dev Community
 
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
 

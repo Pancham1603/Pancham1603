@@ -1,8 +1,5 @@
 ### Hi there, I'm Pancham Agarwal 👋
 
-<!--
-**Pancham1603/Pancham1603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🌱 I’m currently learning ...Django
 - 🎓 Studying PCM :/ , Computer Science and Computer programming 
 - 🤔 Enthusiast in learning new frameworks 0_0

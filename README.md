@@ -5,7 +5,6 @@
 - 🤔 Enthusiast in learning new frameworks 0_0
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...Brrrrrrrrrrr
-- - 📫 How to reach me: ...[pancham1603@gmail.com](mailto:pancham1603@gmail.com)
 
 ### Connect with me:
 

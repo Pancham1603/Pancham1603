@@ -1,10 +1,10 @@
 ### Hi there, I'm Pancham Agarwal 👋
 
-- 🌱 I’m currently learning ...Django
+- 🌱 I’m currently learning Django
 - 🎓 Studying PCM :/ , Computer Science and Computer programming 
 - 🤔 Enthusiast in learning new frameworks 0_0
-- 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...Brrrrrrrrrrr
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Brrrrrrrrrrr
 
 ---
 

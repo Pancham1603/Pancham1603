@@ -22,16 +22,16 @@
 
 ### Connect with me
 
-<a href="https://www.linkedin.com/in/pancham-agarwal-1aa625211/" target="_blank">
+<a href="https://www.linkedin.com/in/pancham-agarwal-1aa625211/" target="_blank" rel="noopener noreferrer" >
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://instagram.com/pancham_16" target="_blank">
+<a href="https://instagram.com/pancham_16" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
 </a>&nbsp;&nbsp;
-<a href="https://discord.gg/DVWYyUFjAB" target="_blank">
+<a href="https://discord.gg/DVWYyUFjAB" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />        
 </a>&nbsp;&nbsp;
-<a href="mailto:pancham1603@gmail.com" target="_blank">
+<a href="mailto:pancham1603@gmail.com" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
 </a>&nbsp;&nbsp;
 

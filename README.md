@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Pancham 
+### Hi there 👋, my name is Pancham Agarwal 
 ![Profile views](https://gpvc.arturio.dev/pancham1603)
 
 - 🔭 I’m currently working on Cryptic Hunt web app. 

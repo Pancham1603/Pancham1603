@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Pancham Agarwal 
 ![Profile views](https://gpvc.arturio.dev/pancham1603)
 
-- 🔭 I’m currently working on a pdf bot. 
+- 🔭 I’m currently working on medSCHED. 
 - 🌱 I’m currently learning Django and Java 
 - 💬 Ask me about music suggestions lol 
 - 📫 How to reach me: pancham1603@gmail.com 

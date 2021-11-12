@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on medSCHED. 
 - 🌱 I’m currently learning Django and Java 
 - 💬 Ask me about music suggestions lol 
-- 📫 How to reach me: pancham1603@gmail.com 
+- 📫 How to reach me: mail@panchamagarwal.me
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: Use my [SpotiPy Downloader](https://spotipydownloader.herokuapp.com)  
 
@@ -31,7 +31,7 @@
 <a href="https://discord.gg/DVWYyUFjAB" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />        
 </a>&nbsp;&nbsp;
-<a href="mailto:pancham1603@gmail.com" target="_blank" rel="noopener noreferrer">
+<a href="mailto:mail@panchamagarwal.me" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
 </a>&nbsp;&nbsp;
 

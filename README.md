@@ -1,9 +1,8 @@
 ### Hi there 👋, my name is Pancham Agarwal 
-![Profile views](https://gpvc.arturio.dev/pancham1603)
+<!-- ![Profile views](https://gpvc.arturio.dev/pancham1603) -->
 
-- 🔭 I’m currently working on medSCHED. 
-- 🌱 I’m currently learning Django and Java 
-- 💬 Ask me about music suggestions lol 
+- 🌱 I’m currently learning JS 
+- 💬 Ask me about music suggestions
 - 📫 How to reach me: mail@panchamagarwal.me
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: Use my [SpotiPy Downloader](https://spotipydownloader.herokuapp.com)  

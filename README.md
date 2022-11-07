@@ -5,7 +5,7 @@
 - 💬 Ask me about music suggestions
 - 📫 How to reach me: mail@pancham.dev
 - 😄 Pronouns: He/Him 
-- ⚡ Fun fact: Use my [SpotiPy Downloader](https://spotipydownloader.herokuapp.com)  
+- ⚡ Fun fact: Use my [SpotiPy Downloader](https://spotipy.pancham.dev)  
 
 ---
 
